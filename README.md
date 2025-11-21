@@ -1,0 +1,2 @@
+# Generative-AI-Text-to-Image-Generation-Using-Conditional-GANs-and-Hugging-Face-Transformers
+Comprehensive text-to-image generation project using Conditional GANs and Hugging Face Transformers. Includes dataset exploration, text preprocessing, embedding generation, attention-based model enhancements, and visualization of outputs. Produces high-quality images from textual descriptions with domain-specific customization.
