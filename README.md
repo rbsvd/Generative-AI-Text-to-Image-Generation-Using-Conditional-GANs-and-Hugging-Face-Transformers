@@ -38,7 +38,8 @@ The workflow includes:
   * Text description length analysis
   * Image resolution distribution
   * Sample visualizations with text captions
-  * 
+
+  
 ##  Datasets 
 |   Dataset   | Samples Used|        Notes        | 
 |-------------|-------------|---------------------| 
