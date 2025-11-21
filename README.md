@@ -38,7 +38,15 @@ The workflow includes:
   * Text description length analysis
   * Image resolution distribution
   * Sample visualizations with text captions
-
+  * 
+##  Datasets 
+|   Dataset   | Samples Used|        Notes        | 
+|-------------|-------------|---------------------| 
+|  COCO 2017  | 5–64 images | Captions loaded from `annotations/captions_train2017.json` | 
+|  CelebA-MM  | 5–32 images | Portrait captions, default `a portrait photo` | 
+| DeepFashion | 5–32 images | Fashion captions from CSV/Feather | 
+| Oxford-102  | 5–64 images | Flower captions `a photo of a flower` |
+|    LAION    | 2000 captions max | Used for text embedding experiments only |
 ---
 
 ## Methodology
