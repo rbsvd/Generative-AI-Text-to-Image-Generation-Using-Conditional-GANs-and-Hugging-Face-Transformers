@@ -1,7 +1,3 @@
-Got it! Let’s create a **full, professional, detailed README** that fully reflects all the work you’ve done, with enough content for GitHub. I’ll integrate **dataset exploration, preprocessing, embeddings, Conditional GANs, attention strategies, evaluation, and visual outputs**—basically everything your project covers. Here’s the draft:
-
----
-
 # Generative AI: Text-to-Image Generation with Conditional GANs & Hugging Face Transformers
 
 ## Project Overview
